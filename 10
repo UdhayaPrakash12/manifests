@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+	
+	<!--DeviceTrees-->
+
+	<project path="device/xiaomi/kenzo" name="UdhayaPrakash12/device_xiaomi_kenzo" remote="github" revision="10" />
+
+	<project path="device/xiaomi/msm8956-common" name="UdhayaPrakash12/device_xiaomi_msm8956-common" remote="github" revision="10" />
+
+	<project path="vendor/xiaomi" name="UdhayaPrakash12/proprietary_vendor_xiaomi" remote="github" revision="10" />
+
+	<project path="kernel/xiaomi/msm8956" name="UdhayaPrakash12/Escrima_kernel_xiaomi_msm8956" remote="github" revision="10" />
+
+
+	<!--HALs-->
+
+	<project path="hardware/qcom-caf/msm8952/audio" name="AmolAmrit/android_hardware_qcom_audio" remote="github" revision="queencake" />
+
+ 	<project path="hardware/qcom-caf/msm8952/display" name="AmolAmrit/android_hardware_qcom_display" remote="github" revision="queencake" />
+
+	<project path="hardware/qcom-caf/msm8952/media" name="AmolAmrit/android_hardware_qcom_media" remote="github" revision="queencake" />
+
+</manifest>
